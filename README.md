@@ -26,6 +26,14 @@
 
 ---
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaohenriqueleal/joaohenriqueleal/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaohenriqueleal/joaohenriqueleal/output/snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/joaohenriqueleal/joaohenriqueal/output/snake.svg">
+  </picture>
+</div>
+
 ### 🛠️ Tecnologias dominantes
 ![HTML 🧱](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white)
 ![CSS 🎨](https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white)
