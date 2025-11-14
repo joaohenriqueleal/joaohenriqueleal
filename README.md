@@ -48,6 +48,7 @@
 
 ### 🧩 Outras ferramentas e interesses
 🧰 **Ferramentas:** VSCode, Git  
+
 🧠 **Interesses:** Xadrez, open source, Bitcoin  
 
 ---
