@@ -38,17 +38,17 @@
 ![HTML 🧱](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white)
 ![CSS 🎨](https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white)
 ![JavaScript ⚡](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black)
-![TypeScript 🌀](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
+<!--![TypeScript 🌀](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white) -->
 ![React ⚛️](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb)
 ![TailwindCSS 💨](https://img.shields.io/badge/TailwindCSS-06b6d4?logo=tailwindcss&logoColor=white)
 ![Python 🐍](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=ffdd54)
-![C 🔧](https://img.shields.io/badge/C-00599c?logo=c&logoColor=white)
+<!-- ![C 🔧](https://img.shields.io/badge/C-00599c?logo=c&logoColor=white) -->
 
 ---
 
 ### 🧩 Outras ferramentas e interesses
-🧰 **Ferramentas:** VSCode, Git
-🧠 **Interesses:** Xadrez, open source, Bitcoin 
+🧰 **Ferramentas:** VSCode, Git  
+🧠 **Interesses:** Xadrez, open source, Bitcoin  
 
 ---
 
