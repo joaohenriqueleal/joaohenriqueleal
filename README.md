@@ -22,7 +22,9 @@
 
 🎮 Hobby: Jogar Xadrez  
 
-📫 Contato: [joaohenriquelealdesouza001@gmail.com](mailto:joaohenriquelealdesouza001@gmail.com)
+📫 Contatos:  
+- e-mail:  [joaohenriquelealdesouza001@gmail.com](mailto:joaohenriquelealdesouza001@gmail.com)  
+- WhatsApp:  [Leal, João](https://wa.me/5563981379878)
 
 ---
 
