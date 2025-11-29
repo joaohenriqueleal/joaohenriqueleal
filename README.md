@@ -53,7 +53,6 @@
 
 ### 📊 Minhas estatísticas do GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=joaohenriqueleal&show_icons=true&theme=tokyonight)  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenriqueleal&layout=compact&theme=tokyonight)  
 
 <div align="center">
