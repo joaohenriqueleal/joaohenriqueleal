@@ -45,6 +45,7 @@
 
 ![Python 🐍](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=ffdd54)
 ![Markdown ✍️](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4CAF50?logo=gnu-bash&logoColor=white)
 <!-- ![C 🔧](https://img.shields.io/badge/C-00599c?logo=c&logoColor=white) -->
 
 ---
