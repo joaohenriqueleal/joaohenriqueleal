@@ -39,6 +39,7 @@
 ![Git 🔧](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub 🐙](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VS Code 🖥️](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![PyCharm 🧠](https://img.shields.io/badge/PyCharm-FFD43B?logo=pycharm&logoColor=0A2540)
 ![Vite ⚡](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
 ### 🛠️ Outras linguagens
