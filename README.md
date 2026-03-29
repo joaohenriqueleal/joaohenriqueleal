@@ -27,6 +27,8 @@
 - ♟️ **Hobby:** Xadrez (lógica, estratégia e tomada de decisão)
 - 📫 **Contato:**  
   - 📧 <a href="mailto:joaohenriquelealdesouza001@gmail.com">joaohenriquelealdesouza001@gmail.com</a>
+  - 📸 <a href="https://www.instagram.com/joao_henrique_leal/" target="_blank">Instagram</a>
+  - 👥 <a href="https://www.facebook.com/profile.php?id=61574721203328" target="_blank">Facebook</a>
 
 ---
 
