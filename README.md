@@ -72,8 +72,8 @@
 ### 🚀 Interesses e aprendizados
 
 - ♟️ Xadrez (lógica e pensamento estratégico)
-- 🌍 Open Source
 - ₿ Bitcoin e tecnologia blockchain
+- 🌍 Open Source
 
 ---
 
