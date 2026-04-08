@@ -24,7 +24,7 @@
 - 📍 **Brasil**
 - 🎯 **Objetivo:** conquistar minha **primeira vaga como desenvolvedor**
 - 🌱 **Estudando atualmente:** Jest, React Testing Library e C
-- ♟️ **Hobby:** Xadrez (lógica, estratégia e tomada de decisão)
+- ♟️ **Hobby:** Xadrez
 - 📫 **Contatos:**
   - 📧 <a href="mailto:joaohenriquelealdesouza001@gmail.com">joaohenriquelealdesouza001@gmail.com</a>
   - 📸 <a href="https://www.instagram.com/joao_henrique_leal/" target="_blank">Instagram</a>
