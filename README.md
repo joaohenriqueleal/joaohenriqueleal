@@ -23,7 +23,7 @@
 
 - 📍 **Brasil**
 - 🎯 **Objetivo:** conquistar minha **primeira vaga como desenvolvedor**
-- 🌱 **Estudando atualmente:** Jest, React Testing Library e C
+- 🌱 **Estudando atualmente:** Flask e C
 - ♟️ **Hobby:** Xadrez
 - 📫 **Contatos:**
   - 📧 <a href="mailto:joaohenriquelealdesouza001@gmail.com">joaohenriquelealdesouza001@gmail.com</a>
