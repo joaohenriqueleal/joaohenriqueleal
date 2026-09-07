@@ -13,7 +13,7 @@
 
 ## 👋 Olá! Eu sou o João Henrique
 
-💻 **Desenvolvedor Front-end** apaixonado por tecnologia, design e boas experiências digitais  
+💻 **Desenvolvedor FullStack** apaixonado por tecnologia, design e boas experiências digitais  
 🚀 Transformo ideias em **interfaces modernas, acessíveis e funcionais**  
 ☕ Café, código limpo e aprendizado contínuo fazem parte da rotina  
 
