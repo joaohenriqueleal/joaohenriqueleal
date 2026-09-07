@@ -82,14 +82,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenriqueleal&layout=compact&theme=tokyonight" 
-    alt="Linguagens mais usadas"
-  />
-</p>
+### 📊 Workflows
 
 <div align="center">
   <picture>
